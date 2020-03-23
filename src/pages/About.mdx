@@ -13,6 +13,15 @@ import LinkExternal from '../components/Router/LinkExternal'
 <Row>
 <Col>
 
+# Note
+
+This is a copy of the original model from the Neher lab at <LinkExternal url="https://neherlab.org/covid19/">neherlab.org/covid19</LinkExternal> with the following additions/modifications:
+
+ - Iceland selected as default country
+ - Added population data for Iceland, and some rough numbers on hospital/ICU beds
+ - More up-to-date and detailed case numbers from <LinkExternal url="https://www.covid.is/data">covid.is/data</LinkExternal> and <LinkExternal url="https://www.landspitali.is/default.aspx?pageid=b629a8e0-b262-49e0-b842-0f776cb4241e">landspitali.is</LinkExternal>
+ - Default values of the "Confirmed (% total)" values in the age-specific input table are based on the current age distribution of confirmed cases on <LinkExternal url="https://www.covid.is/data">covid.is/data</LinkExternal>. For each age group, the number is calculated as (confirmed cases)/(total population in age group), normalized to an average number of 20 % (similar to the original default data).
+
 # About COVID-19 Scenarios
 
 This web application serves as a planning tool for COVID-19 outbreaks in communities across the world.

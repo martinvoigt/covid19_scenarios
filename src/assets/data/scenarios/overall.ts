@@ -10,7 +10,7 @@ const globalScenarios: OverallScenario[] = [
     name: 'Default',
     containmentScenario: 'Moderate mitigation',
     epidemiologicalScenario: 'Moderate/North',
-    populationScenario: 'CHE-Basel-Stadt',
+    populationScenario: 'Iceland',
   },
   {
     name: 'Country - no mitigation',

@@ -102,7 +102,10 @@ if __name__ == "__main__":
             region = f"{codes[country]}-{region}"
             db, ok = parse(filter_tsv(f"{root}/{tsv}"))
             if ok:
-                cases[region] = db
+                if country == os.path.basename(tsv)[:-4]:
+                    cases[country] = db
+                else:
+                    cases[region] = db
             else:
                 print(f"Region '{region}' incorrectly formatted", file=sys.stderr)
 

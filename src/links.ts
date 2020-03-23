@@ -1,5 +1,5 @@
 const links = {
-  '/': 'COVID-19 Scenarios',
+  '/': 'COVID-19 Scenarios (Iceland edition)',
   '/about': 'About',
   '/team': 'Team',
 }

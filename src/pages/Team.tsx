@@ -28,6 +28,8 @@ const Team: React.FC = () => {
           <LinkExternal url="https://ki.se/en/mtc/jan-albert-group">Jan Albert</LinkExternal>
           &nbsp; at the Karolinska hospital in Stockholm had the initial idea to develop this tool and suggested
           features and parameters. Jan and Robert Dyrdak provided parameter estimates.
+
+          <p>Iceland-specific additions by Martin Voigt.</p>
         </Col>
         <Col lg={2} />
       </Row>

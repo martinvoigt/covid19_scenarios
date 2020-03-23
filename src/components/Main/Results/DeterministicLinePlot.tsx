@@ -112,7 +112,7 @@ export function DeterministicLinePlot({ data, userResult, logScale, caseCounts }
       {key:'susceptible', color: colors.susceptible, name:'Susceptible', legendType:"line"},
       //{key:'exposed', color: colors.exposed, name:'', legendType:"line"},
       {key:'infectious', color: colors.infectious, name:'Infectious', legendType:"line"},
-      // {key:'hospitalized', color: colors.severe, name:'Severely ill', legendType:"line"},
+      {key:'hospitalized', color: colors.severe, name:'Severely ill', legendType:"line"},
       {key:'critical', color: colors.critical, name:'Patients in ICU', legendType:"line"},
       {key:'overflow', color: colors.overflow, name:'ICU overflow', legendType:"line"},
       {key:'recovered', color: colors.recovered, name:'Recovered', legendType:"line"},
