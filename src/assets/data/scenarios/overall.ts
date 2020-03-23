@@ -9,7 +9,7 @@ export interface OverallScenario {
 const globalScenarios: OverallScenario[] = [
   {
     name: i18next.t('Default'),
-    containmentScenario: i18next.t('Moderate mitigation'),
+    containmentScenario: i18next.t('Strong mitigation'),
     epidemiologicalScenario: i18next.t('Moderate/North'),
     populationScenario: 'Iceland',
   },
