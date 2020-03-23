@@ -21,7 +21,7 @@ const DATA_POINTS = {
   Critical: 'critical',
   Overflow: 'overflow',
   Recovered: 'recovered',
-  Death: 'death',
+  Death: 'dead',
   CumulativeCases: 'cumulativeCases',
   NewCases: 'newCases',
   HospitalBeds: 'hospitalBeds',
@@ -153,7 +153,7 @@ export function DeterministicLinePlot({ data, userResult, logScale, caseCounts }
     { key: DATA_POINTS.Critical, color: colors.critical, name: t('Patients in ICU'), legendType: 'line' },
     { key: DATA_POINTS.Overflow, color: colors.overflow, name: t('ICU overflow'), legendType: 'line' },
     { key: DATA_POINTS.Recovered, color: colors.recovered, name: t('Recovered'), legendType: 'line' },
-    { key: DATA_POINTS.Death, color: colors.death, name: t('Cumulative deaths'), legendType: 'line' },
+    { key: DATA_POINTS.Death, color: colors.dead, name: t('Cumulative deaths'), legendType: 'line' },
   ]
 
   const tMin = observations.length ? Math.min(plotData[0].time, observations[0].time) : plotData[0].time
@@ -165,7 +165,7 @@ export function DeterministicLinePlot({ data, userResult, logScale, caseCounts }
     ? [
         // Append empirical data
         ...(count_observations.observedDeaths
-          ? [{ key: DATA_POINTS.ObservedDeaths, color: colors.death, name: t('Cumulative confirmed deaths') }]
+          ? [{ key: DATA_POINTS.ObservedDeaths, color: colors.dead, name: t('Cumulative confirmed deaths') }]
           : []),
         ...(count_observations.cases
           ? [{ key: DATA_POINTS.ObservedCases, color: colors.cumulativeCases, name: t('Cumulative confirmed cases') }]
