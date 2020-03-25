@@ -1,6 +1,9 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect, createRef } from 'react'
 
 import Papa from 'papaparse'
+
+import { useTranslation } from 'react-i18next'
+
 import { Button, Col, Row } from 'reactstrap'
 
 import { readFile } from '../../../helpers/readFile'
@@ -9,7 +12,7 @@ import { exportResult } from '../../../algorithms/utils/exportResult'
 import { AlgorithmResult, UserResult } from '../../../algorithms/types/Result.types'
 import processUserResult from '../../../algorithms/utils/userResult'
 
-import { EmpiricalData }from '../../../algorithms/types/Param.types'
+import { EmpiricalData } from '../../../algorithms/types/Param.types'
 
 import { CollapsibleCard } from '../../Form/CollapsibleCard'
 import FormSwitch from '../../Form/FormSwitch'
@@ -23,18 +26,19 @@ import { AgeBarChart } from './AgeBarChart'
 import { DeterministicLinePlot } from './DeterministicLinePlot'
 import { OutcomeRatesTable } from './OutcomeRatesTable'
 
-import { useTranslation } from 'react-i18next'
-
-export interface ResutsCardProps {
+interface ResultsCardProps {
+  autorunSimulation: boolean
+  toggleAutorun: () => void
   canRun: boolean
   severity: SeverityTableRow[] // TODO: pass severity throughout the algorithm and as a part of `AlgorithmResult` instead?
   result?: AlgorithmResult
   caseCounts?: EmpiricalData
 }
 
-function ResultsCard({ canRun, severity, result, caseCounts }: ResutsCardProps) {
+function ResultsCardFunction({ canRun, autorunSimulation, toggleAutorun, severity, result, caseCounts }: ResultsCardProps) {
   const { t } = useTranslation()
-  const [logScale, setLogScale] = useState<boolean>(true)
+  const [logScale, setLogScale] = useState(true)
+  const [showHumanized, setShowHumanized] = useState(true)
 
   // TODO: shis should probably go into the `Compare/`
   const [files, setFiles] = useState<Map<FileType, File>>(new Map())
@@ -59,9 +63,32 @@ function ResultsCard({ canRun, severity, result, caseCounts }: ResutsCardProps) 
     setUserResult(newUserResult)
   }
 
-  const hasResult = Boolean(result?.deterministicTrajectory)
-  const canExport = Boolean(hasResult)
+  const [hasResult, setHasResult] = useState<boolean>(false)
+  const [canExport, setCanExport] = useState<boolean>(false)
+  const scrollTargetRef = createRef<HTMLSpanElement>()
+
+  useEffect( () => {
+    if (result && result.deterministicTrajectory) {
+      setHasResult(true);
+      setCanExport(true);
+
+      const scrollTarget = scrollTargetRef.current
+      if (scrollTarget) {
+        scrollTarget.scrollIntoView({
+          behavior: 'smooth',
+          block: 'start',
+          inline: 'nearest'
+        })
+      }
+    } else {
+      setHasResult(false);
+      setCanExport(false);
+    }
+  }, [result, scrollTargetRef.current])
+
   return (
+    <>
+    <span ref={scrollTargetRef}></span>
     <CollapsibleCard
       identifier="results-card"
       title={<h3 className="p-0 m-0 text-truncate">{t('Results')}</h3>}
@@ -71,9 +98,23 @@ function ResultsCard({ canRun, severity, result, caseCounts }: ResutsCardProps) 
       <Row noGutters>
         <Col>
           <p>
-            {t('This output of a mathematical model depends on model assumptions and parameter choices. We have done our best (in limited time) to check the model implementation is correct. Please carefully consider the parameters you choose and interpret the output with caution')}
+            {t(
+              'This output of a mathematical model depends on model assumptions and parameter choices. We have done our best (in limited time) to check the model implementation is correct. Please carefully consider the parameters you choose and interpret the output with caution',
+            )}
           </p>
         </Col>
+      </Row>
+      <Row noGutters className="mb-4 pl-4">
+        <label className="form-check-label">
+            <input
+              type="checkbox"
+              className="form-check-input"
+              onChange={toggleAutorun}
+              checked={autorunSimulation}
+              aria-checked={autorunSimulation}
+            />
+            Autorun Simulation on scenario parameter change
+          </label>
       </Row>
       <Row noGutters className="mb-4">
         <Col>
@@ -83,7 +124,7 @@ function ResultsCard({ canRun, severity, result, caseCounts }: ResutsCardProps) 
                 className="run-button"
                 type="submit"
                 color="primary"
-                disabled={!canRun}
+                disabled={!canRun || autorunSimulation}
                 data-testid="RunResults"
               >
                 {t('Run')}
@@ -117,24 +158,40 @@ function ResultsCard({ canRun, severity, result, caseCounts }: ResutsCardProps) 
             onValueChanged={setLogScale}
           />
         </Col>
+        <Col data-testid="HumanizedValuesSwitch">
+          <FormSwitch
+            identifier="showHumanized"
+            label={t('Show humanized results')}
+            help={t('Show numerical results in a human friendly format')}
+            checked={showHumanized}
+            onValueChanged={setShowHumanized}
+          />
+        </Col>
       </Row>
       <Row noGutters>
         <Col>
-          <DeterministicLinePlot data={result} userResult={userResult} logScale={logScale} caseCounts={caseCounts} />
+          <DeterministicLinePlot
+            data={result}
+            userResult={userResult}
+            logScale={logScale}
+            showHumanized={showHumanized}
+            caseCounts={caseCounts}
+          />
         </Col>
       </Row>
       <Row>
         <Col>
-          <AgeBarChart data={result} rates={severity} />
+          <AgeBarChart showHumanized={showHumanized} data={result} rates={severity} />
         </Col>
       </Row>
       <Row>
         <Col>
-          <OutcomeRatesTable result={result} rates={severity} />
+          <OutcomeRatesTable showHumanized={showHumanized} result={result} rates={severity} />
         </Col>
       </Row>
     </CollapsibleCard>
+    </>
   )
 }
 
-export { ResultsCard }
+export const ResultsCard = React.memo(ResultsCardFunction)
