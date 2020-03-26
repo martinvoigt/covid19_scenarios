@@ -10,7 +10,7 @@ import { AlgorithmResult } from '../../../algorithms/types/Result.types'
 
 import { SeverityTableRow } from '../Scenario/SeverityTable'
 
-import * as d3 from 'd3'
+import { numberFormatter } from '../../../helpers/numberFormat'
 
 import { colors } from './DeterministicLinePlot'
 
@@ -22,14 +22,14 @@ export interface SimProps {
   rates?: SeverityTableRow[]
 }
 
-const humanizeFormatter = d3.format('.5~s')
-
 export function AgeBarChart({ showHumanized, data, rates }: SimProps) {
-  const { t: unsafeT } = useTranslation()
+  const { t: unsafeT, i18n } = useTranslation()
 
   if (!data || !rates) {
     return null
   }
+
+  const formatNumber = numberFormatter(i18n.language, !!showHumanized, false)
 
   const t = (...args: Parameters<typeof unsafeT>) => {
     const translation = unsafeT(...args)
@@ -42,13 +42,13 @@ export function AgeBarChart({ showHumanized, data, rates }: SimProps) {
   }
 
   const ages = Object.keys(data.params.ageDistribution)
-  const lastDataPoint = data.deterministicTrajectory[data.deterministicTrajectory.length - 1]
+  const lastDataPoint = data.deterministic.trajectory[data.deterministic.trajectory.length - 1]
   const plotData = ages.map((age) => ({
     name: age,
     fraction: Math.round(data.params.ageDistribution[age] * 1000) / 10,
-    peakSevere: Math.round(Math.max(...data.deterministicTrajectory.map((x) => x.hospitalized[age]))),
-    peakCritical: Math.round(Math.max(...data.deterministicTrajectory.map((x) => x.critical[age]))),
-    peakOverflow: Math.round(Math.max(...data.deterministicTrajectory.map((x) => x.overflow[age]))),
+    peakSevere: Math.round(Math.max(...data.deterministic.trajectory.map((x) => x.hospitalized[age]))),
+    peakCritical: Math.round(Math.max(...data.deterministic.trajectory.map((x) => x.critical[age]))),
+    peakOverflow: Math.round(Math.max(...data.deterministic.trajectory.map((x) => x.overflow[age]))),
     totalDead: Math.round(lastDataPoint.dead[age]),
   }))
 
@@ -57,9 +57,9 @@ export function AgeBarChart({ showHumanized, data, rates }: SimProps) {
     name: string,
     entry: TooltipPayload,
     index: number,
-  ) => <span>{showHumanized ? humanizeFormatter(Number(value)) : value}</span>
+  ) => <span>{formatNumber(Number(value))}</span>
 
-  const tickFormatter = (value: number) => (showHumanized ? humanizeFormatter(value) : value)
+  const tickFormatter = (value: number) => formatNumber(value)
 
   return (
     <div className="w-100 h-100" data-testid="AgeBarChart">
@@ -68,6 +68,7 @@ export function AgeBarChart({ showHumanized, data, rates }: SimProps) {
           if (!width) {
             return <div className="w-100 h-100" />
           }
+
           const height = Math.max(250, width / ASPECT_RATIO)
 
           return (
