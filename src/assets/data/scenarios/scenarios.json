@@ -22,7 +22,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -38,7 +38,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-02-15"
             }
         }
     },
@@ -65,7 +65,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 3.8,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -81,7 +81,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-02-18"
             }
         }
     },
@@ -108,7 +108,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -124,7 +124,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-02-13"
             }
         }
     },
@@ -151,7 +151,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 1.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -167,7 +167,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -194,7 +194,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -210,7 +210,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-28"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -237,7 +237,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -253,7 +253,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-26"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -280,7 +280,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 1.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -296,7 +296,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -366,7 +366,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -382,7 +382,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -409,7 +409,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -425,7 +425,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -452,7 +452,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -468,7 +468,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-16"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -554,7 +554,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -581,7 +581,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -597,7 +597,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -667,7 +667,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -683,7 +683,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -710,7 +710,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -726,7 +726,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-26"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -839,7 +839,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 1.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -855,7 +855,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -882,7 +882,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -898,7 +898,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-31"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -925,7 +925,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -941,7 +941,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -968,7 +968,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -984,7 +984,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1011,7 +1011,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1027,7 +1027,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1054,7 +1054,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1070,7 +1070,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1097,7 +1097,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1113,7 +1113,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1140,7 +1140,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1156,7 +1156,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1183,7 +1183,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1199,7 +1199,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-25"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1226,7 +1226,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1242,7 +1242,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1269,7 +1269,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1285,7 +1285,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1312,7 +1312,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1328,7 +1328,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1355,7 +1355,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1371,7 +1371,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1398,7 +1398,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1414,7 +1414,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-29"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1441,7 +1441,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1457,7 +1457,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1543,7 +1543,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-29"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1570,7 +1570,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1586,7 +1586,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1613,7 +1613,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1629,7 +1629,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1656,7 +1656,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1672,7 +1672,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1699,7 +1699,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1715,7 +1715,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1742,7 +1742,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1758,7 +1758,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-29"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1785,7 +1785,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1801,7 +1801,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1828,7 +1828,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.6,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1871,7 +1871,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.7,
+            "r0": 2.3,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1914,7 +1914,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.4,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -1930,7 +1930,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -1957,7 +1957,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 3.4,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2000,7 +2000,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2016,7 +2016,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2043,7 +2043,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2059,7 +2059,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2086,7 +2086,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2102,7 +2102,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-27"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2129,7 +2129,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2145,7 +2145,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2172,7 +2172,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2215,7 +2215,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2258,7 +2258,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2274,7 +2274,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2301,7 +2301,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2317,7 +2317,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-28"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2387,7 +2387,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2403,7 +2403,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2446,7 +2446,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2473,7 +2473,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2489,7 +2489,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2516,7 +2516,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2532,7 +2532,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2559,7 +2559,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2575,7 +2575,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2602,7 +2602,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2618,7 +2618,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-28"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2645,7 +2645,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2688,7 +2688,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2704,7 +2704,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2731,7 +2731,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2747,7 +2747,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-02-15"
             }
         }
     },
@@ -2774,7 +2774,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2790,7 +2790,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2833,7 +2833,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-04"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2860,7 +2860,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2876,7 +2876,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2903,7 +2903,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2919,7 +2919,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2946,7 +2946,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -2962,7 +2962,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -2989,7 +2989,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3005,7 +3005,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3032,7 +3032,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3048,7 +3048,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3075,7 +3075,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3091,7 +3091,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3118,7 +3118,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3134,7 +3134,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-13"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3161,7 +3161,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3177,7 +3177,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3204,7 +3204,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3220,7 +3220,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-14"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3247,7 +3247,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3263,7 +3263,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-17"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3290,7 +3290,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3306,7 +3306,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3333,7 +3333,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3349,7 +3349,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-13"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3376,7 +3376,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3392,7 +3392,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3419,7 +3419,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3435,7 +3435,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3462,7 +3462,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3478,7 +3478,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3505,7 +3505,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3521,7 +3521,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3548,7 +3548,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3564,7 +3564,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-04"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3591,7 +3591,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3607,7 +3607,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-01"
+                "tMin": "2020-02-27"
             }
         }
     },
@@ -3634,7 +3634,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3650,7 +3650,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-08"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3677,7 +3677,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3693,7 +3693,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3720,7 +3720,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3736,7 +3736,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3763,7 +3763,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3779,7 +3779,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3806,7 +3806,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3822,7 +3822,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-26"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3849,7 +3849,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3865,7 +3865,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3892,7 +3892,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3908,7 +3908,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3935,7 +3935,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3951,7 +3951,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -3978,7 +3978,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -3994,7 +3994,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-25"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4021,7 +4021,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4037,7 +4037,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4064,7 +4064,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4080,7 +4080,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4107,7 +4107,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4123,7 +4123,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4150,7 +4150,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4166,7 +4166,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4193,7 +4193,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4209,7 +4209,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-16"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4236,7 +4236,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4252,7 +4252,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4279,7 +4279,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4295,7 +4295,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-14"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4322,7 +4322,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4338,7 +4338,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4365,7 +4365,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4381,7 +4381,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-14"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4408,7 +4408,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.9,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4451,7 +4451,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 3.1,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4467,7 +4467,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-02"
+                "tMin": "2020-02-04"
             }
         }
     },
@@ -4494,7 +4494,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.9,
+            "r0": 3.3,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4537,7 +4537,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.9,
+            "r0": 2.5,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4580,7 +4580,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4666,7 +4666,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4682,7 +4682,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-17"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4795,7 +4795,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4811,7 +4811,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -4838,7 +4838,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -4854,7 +4854,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5010,7 +5010,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5026,7 +5026,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5096,7 +5096,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5112,7 +5112,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5139,7 +5139,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 1.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5155,7 +5155,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2019-11-14"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5182,7 +5182,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5198,7 +5198,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5311,7 +5311,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5327,7 +5327,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-06"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5354,7 +5354,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5370,7 +5370,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-26"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5440,7 +5440,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5456,7 +5456,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-16"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5483,7 +5483,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5499,7 +5499,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5784,7 +5784,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5800,7 +5800,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-16"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5827,7 +5827,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5843,7 +5843,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -5913,7 +5913,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -5929,7 +5929,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6042,7 +6042,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6058,7 +6058,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6085,7 +6085,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 1.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6101,7 +6101,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6128,7 +6128,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6144,7 +6144,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6171,7 +6171,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6187,7 +6187,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6214,7 +6214,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6230,7 +6230,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6257,7 +6257,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6273,7 +6273,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-16"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6300,7 +6300,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6316,7 +6316,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6343,7 +6343,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6359,7 +6359,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-28"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6402,7 +6402,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-01"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6429,7 +6429,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6445,7 +6445,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6472,7 +6472,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6488,7 +6488,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-04"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6515,7 +6515,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6531,7 +6531,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-25"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6558,7 +6558,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6574,7 +6574,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-01"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6601,7 +6601,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6617,7 +6617,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6644,7 +6644,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6660,7 +6660,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-04"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6687,7 +6687,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6703,7 +6703,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-04"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6730,7 +6730,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6746,7 +6746,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6773,7 +6773,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6789,7 +6789,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6816,7 +6816,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6832,7 +6832,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6902,7 +6902,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -6918,7 +6918,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -6988,7 +6988,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7004,11 +7004,11 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-27"
+                "tMin": "2020-03-01"
             }
         }
     },
-    "India": {
+    "Iceland": {
         "containment": {
             "numberPoints": 10,
             "reduction": [
@@ -7035,6 +7035,49 @@
             "seasonalForcing": 0.2
         },
         "population": {
+            "ICUBeds": 29,
+            "cases": "Iceland",
+            "country": "Iceland",
+            "hospitalBeds": 1169,
+            "importsPerDay": 0.2,
+            "populationServed": 364260,
+            "suspectedCasesToday": 10
+        },
+        "simulation": {
+            "numberStochasticRuns": 0,
+            "simulationTimeRange": {
+                "tMax": "2020-09-01",
+                "tMin": "2020-02-20"
+            }
+        }
+    },
+    "India": {
+        "containment": {
+            "numberPoints": 10,
+            "reduction": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        "epidemiological": {
+            "infectiousPeriod": 3,
+            "latencyTime": 5,
+            "lengthHospitalStay": 4,
+            "lengthICUStay": 14,
+            "overflowSeverity": 2,
+            "peakMonth": 0,
+            "r0": 2.7,
+            "seasonalForcing": 0.2
+        },
+        "population": {
             "ICUBeds": 70000,
             "cases": "India",
             "country": "India",
@@ -7047,7 +7090,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-02-18"
             }
         }
     },
@@ -7074,7 +7117,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7090,7 +7133,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-02-20"
             }
         }
     },
@@ -7117,7 +7160,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7133,7 +7176,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-02-23"
             }
         }
     },
@@ -7160,7 +7203,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.3,
+            "r0": 3.3,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7176,7 +7219,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-28"
+                "tMin": "2020-01-26"
             }
         }
     },
@@ -7203,7 +7246,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7219,7 +7262,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-13"
+                "tMin": "2020-03-09"
             }
         }
     },
@@ -7246,7 +7289,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7262,7 +7305,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-04"
+                "tMin": "2020-03-02"
             }
         }
     },
@@ -7289,7 +7332,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 3.3,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7348,7 +7391,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-14"
+                "tMin": "2020-02-19"
             }
         }
     },
@@ -7375,7 +7418,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.6,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7418,7 +7461,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 3.4,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7434,7 +7477,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-11"
+                "tMin": "2020-02-13"
             }
         }
     },
@@ -7461,7 +7504,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.3,
+            "r0": 2.0,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7477,7 +7520,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-05"
+                "tMin": "2020-02-06"
             }
         }
     },
@@ -7504,7 +7547,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7520,7 +7563,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-02-14"
             }
         }
     },
@@ -7547,7 +7590,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 3.0,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7563,7 +7606,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-02-29"
             }
         }
     },
@@ -7633,7 +7676,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.6,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7649,7 +7692,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -7676,7 +7719,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.8,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7719,7 +7762,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.2,
+            "r0": 4.4,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7735,7 +7778,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-09"
+                "tMin": "2020-02-11"
             }
         }
     },
@@ -7762,7 +7805,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.6,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7778,7 +7821,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-13"
+                "tMin": "2020-02-12"
             }
         }
     },
@@ -7805,7 +7848,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.8,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7848,7 +7891,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7864,7 +7907,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -7891,7 +7934,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7907,7 +7950,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-14"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -7934,7 +7977,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7950,7 +7993,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -7977,7 +8020,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -7993,7 +8036,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-07"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8020,7 +8063,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8036,7 +8079,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8063,7 +8106,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8079,7 +8122,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8106,7 +8149,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8122,7 +8165,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-17"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8149,7 +8192,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8165,7 +8208,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8192,7 +8235,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8208,7 +8251,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-25"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8235,7 +8278,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8251,7 +8294,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8278,7 +8321,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8294,7 +8337,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8321,7 +8364,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8337,7 +8380,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8364,7 +8407,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8380,7 +8423,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8407,7 +8450,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8423,7 +8466,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8450,7 +8493,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8466,7 +8509,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8493,7 +8536,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8509,7 +8552,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-02"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8536,7 +8579,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8552,7 +8595,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8579,7 +8622,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8595,7 +8638,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8622,7 +8665,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8638,7 +8681,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8665,7 +8708,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8681,7 +8724,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8708,7 +8751,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8724,7 +8767,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8751,7 +8794,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8767,7 +8810,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-17"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8794,7 +8837,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8810,7 +8853,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8837,7 +8880,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8853,7 +8896,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-06"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8880,7 +8923,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.9,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8896,7 +8939,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8923,7 +8966,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8939,7 +8982,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -8966,7 +9009,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -8982,7 +9025,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-09"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9009,7 +9052,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9025,7 +9068,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-03"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9052,7 +9095,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9068,7 +9111,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-21"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9095,7 +9138,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9111,7 +9154,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9138,7 +9181,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.6,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9154,7 +9197,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9181,7 +9224,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9197,7 +9240,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9224,7 +9267,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9240,7 +9283,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9267,7 +9310,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9283,7 +9326,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-06"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9310,7 +9353,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.7,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9326,7 +9369,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-12"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9353,7 +9396,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9369,7 +9412,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-19"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9396,7 +9439,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9412,7 +9455,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-22"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9439,7 +9482,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.8,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9455,7 +9498,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-15"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9482,7 +9525,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9498,7 +9541,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9525,7 +9568,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9541,7 +9584,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-25"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9568,7 +9611,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9584,7 +9627,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-05"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9611,7 +9654,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9627,7 +9670,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9654,7 +9697,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9697,7 +9740,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9713,7 +9756,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-24"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9740,7 +9783,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.4,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9756,7 +9799,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-18"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9783,7 +9826,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9799,7 +9842,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-08"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9826,7 +9869,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9842,7 +9885,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9869,7 +9912,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9885,7 +9928,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-23"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9912,7 +9955,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 2.1,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9928,7 +9971,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-10"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9955,7 +9998,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 5.0,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -9971,7 +10014,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-17"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -9998,7 +10041,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.3,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -10014,7 +10057,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-02-20"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -10041,7 +10084,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.5,
+            "r0": 2.7,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -10057,7 +10100,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-03-11"
+                "tMin": "2020-03-01"
             }
         }
     },
@@ -10084,7 +10127,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 4.2,
+            "r0": 3.4,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -10127,7 +10170,7 @@
             "lengthICUStay": 14,
             "overflowSeverity": 2,
             "peakMonth": 0,
-            "r0": 3.1,
+            "r0": 2.5,
             "seasonalForcing": 0.2
         },
         "population": {
@@ -10143,7 +10186,7 @@
             "numberStochasticRuns": 0,
             "simulationTimeRange": {
                 "tMax": "2020-09-01",
-                "tMin": "2020-01-29"
+                "tMin": "2020-01-27"
             }
         }
     }
