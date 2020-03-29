@@ -2,11 +2,12 @@
 *.swp
 *log
 \.build
+\.idea
 \.cache
 \.env
 \.output
 \.reports
 \.vscode
+cypress/screenshots
+cypress/videos
 node_modules
-tools/__pycache__
-cypress/videos/

@@ -2,7 +2,7 @@ import '../dotenv'
 
 import path from 'path'
 
-import glob from 'glob-all'
+// import glob from 'glob-all'
 
 import ReactRefreshWebpackPlugin from '@pmmmwh/react-refresh-webpack-plugin'
 import CopyWebpackPlugin from 'copy-webpack-plugin'
@@ -30,7 +30,7 @@ import webpackTsChecker from './lib/webpackTsChecker'
 
 import { findModuleRoot } from '../../lib/findModuleRoot'
 import { getenv } from '../../lib/getenv'
-import htmlTags from './lib/htmlTags'
+// import htmlTags from './lib/htmlTags'
 
 import babelConfig from '../../babel.config'
 
@@ -325,7 +325,7 @@ export default {
     }),
 
     // Setup for `moment` locales
-    new webpack.ContextReplacementPlugin(/^\.\/locale$/, context => {
+    new webpack.ContextReplacementPlugin(/^\.\/locale$/, (context) => {
       if (!context.context.includes('/moment/')) {
         return
       }
